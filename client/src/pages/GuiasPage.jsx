@@ -1,7 +1,9 @@
+import { GuiasList } from "../components/GuiasList";
+
 export function GuiasPage() {
-    return(
-        <div>GuiasPage</div>
-    )
+    return <GuiasList />;
+        
+    
     
 }
 
